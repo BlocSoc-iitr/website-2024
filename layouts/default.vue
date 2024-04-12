@@ -14,12 +14,12 @@
         <div
           class="flex flex-row text-gray-500 border-b border-gray-200 text-xs"
         >
-          <NuxtLink to="/" class="p-4 text-black">Home</NuxtLink>
-          <NuxtLink to="/" class="p-4">Projects</NuxtLink>
-          <NuxtLink to="/" class="p-4">Events</NuxtLink>
-          <NuxtLink to="/" class="p-4">Resources</NuxtLink>
-          <NuxtLink to="/" class="p-4">Team</NuxtLink>
-          <NuxtLink to="/" class="p-4">Contact</NuxtLink>
+          <NuxtLink to="/" class="p-4 text-[#0C21D6]">Home</NuxtLink>
+          <NuxtLink to="/projects" class="p-4">Projects</NuxtLink>
+          <NuxtLink to="/events" class="p-4">Events</NuxtLink>
+          <NuxtLink to="/resources" class="p-4">Resources</NuxtLink>
+          <NuxtLink to="/team" class="p-4">Team</NuxtLink>
+          <NuxtLink to="/contact" class="p-4">Contact</NuxtLink>
         </div>
       </header>
       <slot />
