@@ -2,7 +2,7 @@
   <div class="mt-12 px-4">
     <h2 class="text-2xl font-semibold">Contact Us</h2>
   </div>
-  <div class="grid grid-cols-2">
+  <div class="grid grid-cols-1 md:grid-cols-2">
   <div class="mt-4 px-4 flex flex-row justify-start items-center gap-2">
     <SvgoEmail />
     <div>
