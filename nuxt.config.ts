@@ -1,16 +1,26 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  css: ['@fontsource/montserrat/400.css', '@fontsource/montserrat/500.css', '@fontsource/montserrat/600.css', '@fontsource/montserrat/700.css','~/assets/css/main.css'],
-  modules: ['@nuxt/ui', 'nuxt-svgo'],
+  css: [
+    "@fontsource/montserrat/400.css",
+    "@fontsource/montserrat/500.css",
+    "@fontsource/montserrat/600.css",
+    "@fontsource/montserrat/700.css",
+    "~/assets/css/main.css",
+  ],
+  modules: [
+    "@nuxt/ui",
+    "nuxt-svgo",
+  ],
+  ssr: false,
   svgo: {
-    defaultImport: 'component',
-    autoImportPath: './assets/icons',
+    defaultImport: "component",
+    autoImportPath: "./assets/icons",
     svgoConfig: {
-      plugins: ['prefixIds'],
+      plugins: ["prefixIds"],
     },
   },
-  vite:{
-    assetsInclude: ['**/*.JPG'],
-  }
-})
+  vite: {
+    assetsInclude: ["**/*.JPG"],
+  },
+});
