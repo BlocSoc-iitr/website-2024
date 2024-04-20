@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-start justify-center w-full">
-    <div class="w-full max-w-2xl mt-4">
+    <div class="w-full max-w-2xl mt-8">
       <header class="flex flex-col w-full">
         <div
           class="flex flex-row items-center justify-start w-full pb-4 border-b border-gray-200"
@@ -17,9 +17,9 @@
         <div class="flex flex-row items-center justify-start w-full overflow-x-auto">
           <NuxtLink to="/" class="p-4 text-[#0C21D6]">Home</NuxtLink>
           <NuxtLink to="/projects" class="p-4">Projects</NuxtLink>
-          <NuxtLink to="/events" class="p-4">Events</NuxtLink>
+          <!-- <NuxtLink to="/events" class="p-4">Events</NuxtLink> -->
           <NuxtLink to="/achievements" class="p-4">Achievements</NuxtLink>
-          <NuxtLink to="/resources" class="p-4">Resources</NuxtLink>
+          <!-- <NuxtLink to="/resources" class="p-4">Resources</NuxtLink> -->
           <NuxtLink to="/team" class="p-4">Team</NuxtLink>
         </div>
         </div>
@@ -28,10 +28,11 @@
       <footer class="flex flex-row items-center justify-between p-4 mt-8 text-xs text-gray-400 border-t border-gray-200">
         <div>&copy; 2024 Blockchain Society, IIT Roorkee</div>
         <div class="flex flex-row items-center justify-center gap-2">
-          <SvgoEmail class="w-4 h-4" />
-          <SvgoGithub class="w-4 h-4" />
-          <SvgoTwitter class="w-4 h-4" />
-          <SvgoLinkedin class="w-4 h-4" />
+          <SvgoEmail class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          <SvgoTwitter class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          <SvgoLinkedin class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          <SvgoInstagram class="w-4 h-4 cursor-pointer hover:text-gray-600" />
         </div>
       </footer>
     </div>

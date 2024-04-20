@@ -1,19 +1,18 @@
 <template>
-  <div class="mt-12 px-4">
+  <div class="px-4 mt-12">
     <h2 class="text-2xl font-semibold">Team</h2>
-    <div class="w-full mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <CardTeam />
-        <CardTeam />
-        <CardTeam />
-        <CardTeam />
+    <div class="grid w-full grid-cols-1 gap-4 mt-4 md:grid-cols-2">
+      <CardTeam v-for="(member, i) in Team" :key="i" :name="member.name" :designation="member.designation" :gender="member.gender" />
     </div>
 
     <h2 class="mt-4 text-2xl font-semibold">Alums</h2>
-        <div class="w-full mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <CardTeam />
-        <CardTeam />
-        <CardTeam />
-        <CardTeam />
+        <div class="grid w-full grid-cols-1 gap-4 mt-4 md:grid-cols-2">
+          <CardTeam v-for="(member, i) in Alums" :key="i" :name="member.name" :designation="member.designation" :gender="member.gender" />
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+ import {Team} from "@/constants/team";
+ import {Alums} from "@/constants/alums";
+</script>
