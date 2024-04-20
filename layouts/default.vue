@@ -14,8 +14,8 @@
         <div
           class="flex flex-row text-xs text-gray-500 border-b border-gray-200"
         >
-        <div class="flex flex-row items-center justify-start w-full overflow-x-auto">
-          <NuxtLink to="/" class="p-4 text-[#0C21D6]">Home</NuxtLink>
+        <div class="flex flex-row items-center justify-start w-full overflow-x-auto font-medium">
+          <NuxtLink to="/" class="p-4">Home</NuxtLink>
           <NuxtLink to="/projects" class="p-4">Projects</NuxtLink>
           <!-- <NuxtLink to="/events" class="p-4">Events</NuxtLink> -->
           <NuxtLink to="/achievements" class="p-4">Achievements</NuxtLink>
@@ -39,4 +39,13 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+//#0C21D6
+</script>
+
+<style scoped>
+  .router-link-exact-active{
+    color: #0C21D6;
+    @apply font-semibold;
+  }
+</style>

@@ -8,20 +8,20 @@
           class="flex flex-col items-center justify-center w-full h-full gap-2"
         >
           <div class="w-full h-full bg-gray-400">
-            <img src="@/assets/images/1.JPG" class="object-fill transition-all grayscale hover:grayscale-0" />
+            <img src="@/assets/images/1.JPG" class="object-fill transition-all ease-in-out grayscale hover:grayscale-0" />
           </div>
           <div class="w-full h-full bg-gray-400">
-            <img src="@/assets/images/2.JPG" class="object-fill transition-all grayscale hover:grayscale-0" />
+            <img src="@/assets/images/2.JPG" class="object-fill transition-all ease-in-out grayscale hover:grayscale-0" />
           </div>
         </div>
         <div
           class="flex flex-col items-center justify-center w-full h-full gap-2"
         >
           <div class="w-full h-full bg-gray-400">
-            <img src="@/assets/images/3.JPG" class="object-fill transition-all grayscale hover:grayscale-0" />
+            <img src="@/assets/images/3.JPG" class="object-fill transition-all ease-in-out grayscale hover:grayscale-0" />
           </div>
           <div class="w-full h-full bg-gray-400">
-            <img src="@/assets/images/4.JPG" class="object-fill transition-all grayscale hover:grayscale-0" />
+            <img src="@/assets/images/4.JPG" class="object-fill transition-all ease-in-out grayscale hover:grayscale-0" />
           </div>
         </div>
       </div>
