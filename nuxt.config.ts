@@ -10,4 +10,7 @@ export default defineNuxtConfig({
       plugins: ['prefixIds'],
     },
   },
+  vite:{
+    assetsInclude: ['**/*.JPG'],
+  }
 })

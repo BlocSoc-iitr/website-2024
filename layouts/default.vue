@@ -25,7 +25,7 @@
         </div>
       </header>
       <slot />
-      <footer class="flex flex-row items-center justify-between p-4 mt-8 text-xs text-gray-400 border-t border-gray-200">
+      <footer class="flex flex-row items-center justify-between p-4 mt-4 text-xs text-gray-400 border-t border-gray-200">
         <div>&copy; 2024 Blockchain Society, IIT Roorkee</div>
         <div class="flex flex-row items-center justify-center gap-2">
           <SvgoEmail class="w-4 h-4 cursor-pointer hover:text-gray-600" />

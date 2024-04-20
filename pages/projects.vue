@@ -1,7 +1,7 @@
 <template>
-    <div class="mt-12 px-4">
+    <div class="px-4 mt-12">
        <h2 class="text-2xl font-semibold">Projects</h2>
-       <div class="mt-4 grid grid-cols-1 gap-4">
+       <div class="grid grid-cols-1 gap-4 mt-4">
            <CardProject v-for="project in projects" :key="project.title" :project="project" />
        </div>
     </div>
