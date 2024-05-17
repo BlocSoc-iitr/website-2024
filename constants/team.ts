@@ -9,7 +9,7 @@ export const Team = [
         designation: 'Chief Administrator, Intern at EigenLayer',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male,
     },
@@ -18,7 +18,7 @@ export const Team = [
         designation: 'Chief of Operations, Dev at Instadapp',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     },
@@ -27,7 +27,7 @@ export const Team = [
         designation: 'Chief Technical Lead, SoB 2023',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     },
@@ -36,7 +36,7 @@ export const Team = [
         designation: 'Joint Administrator, Intern at Netherminds',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     },
@@ -45,7 +45,7 @@ export const Team = [
         designation: 'Head of Research, Intern at Netherminds',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     },
@@ -54,7 +54,7 @@ export const Team = [
         designation: 'Head of Development',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     },
@@ -63,7 +63,7 @@ export const Team = [
         designation: 'Head of Security',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Female
     },
@@ -72,7 +72,7 @@ export const Team = [
         designation: 'Head of Open Source, InterIIT Gold Medalist',
         image: '',
         github: '',
-        twitter: '', 
+        twitter: '',
         linkedin: '',
         gender: Gender.Male
     }

@@ -10,7 +10,7 @@
           <CardTeam v-for="(member, i) in Genesis" :key="i" :name="member.name" :designation="member.designation" :gender="member.gender" />
     </div>
 
-    <h2 class="text-2xl font-semibold">Alums</h2>
+    <h2 class="mt-4 text-2xl font-semibold">Alums</h2>
     <div class="grid w-full grid-cols-1 gap-4 mt-4 md:grid-cols-2">
       <CardTeam v-for="(member, i) in Alums" :key="i" :name="member.name" :designation="member.designation" :gender="member.gender" />
     </div>
