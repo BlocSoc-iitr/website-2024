@@ -4,7 +4,7 @@
             <SvgoProfileMale v-if="gender === 'male'" class="w-24 h-24 text-gray-400"/>
             <SvgoProfileFemale v-else class="w-24 h-24 text-gray-400"/>
         </div>
-        <div class="flex flex-col gap-2 w-52">
+        <div class="flex flex-col gap-2 w-40">
             <h3 class="text-base font-semibold">{{name}}</h3>
             <p class="text-sm font-medium text-gray-500 break-words">{{designation}}</p>
             <p class="flex flex-row items-center justify-start gap-2 text-xs font-medium text-gray-400">
