@@ -1,5 +1,17 @@
 export const Achievements = [
     {
+        title: "Google Summer of Code",
+        year: "2024",
+    },
+    {
+        title: "Summer of Bitcoin 2024",
+        year: "2024",
+    },
+    {
+        title: "Winners at Scaling Ethereum",
+        year: "2024",
+    },
+    {
         title: "Winners at ETHMumbai Hackathon",
         year: "2024",
     },
@@ -32,7 +44,7 @@ export const Achievements = [
         year: "2023",
     },
     {
-        title: "2nd Position at Huffathon",
+        title: "6th Position at Huffathon",
         year: "2023",
     },
     {
