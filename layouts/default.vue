@@ -28,11 +28,21 @@
       <footer class="flex flex-row items-center justify-between p-4 mt-4 text-xs text-gray-400 border-t border-gray-200">
         <div>&copy; 2024 Blockchain Society, IIT Roorkee</div>
         <div class="flex flex-row items-center justify-center gap-2">
-          <SvgoEmail class="w-4 h-4 cursor-pointer hover:text-gray-600" />
-          <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
-          <SvgoTwitter class="w-4 h-4 cursor-pointer hover:text-gray-600" />
-          <SvgoLinkedin class="w-4 h-4 cursor-pointer hover:text-gray-600" />
-          <SvgoInstagram class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          <a href="mailto:blocsoc.acm@iitr.ac.in" target="_blank">
+            <SvgoEmail class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          </a>
+          <a href="https://github.com/BlocSoc-iitr" target="_blank">
+            <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          </a>
+          <a href="https://twitter.com/BlocSocIITR" target="_blank">
+            <SvgoTwitter class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          </a>
+          <a href="https://www.linkedin.com/company/blockchain-society-iit-roorkee/" target="_blank">
+            <SvgoLinkedin class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          </a>
+          <a href="https://www.instagram.com/blocsociitr/" target="_blank">
+            <SvgoInstagram class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+          </a>
         </div>
       </footer>
     </div>
