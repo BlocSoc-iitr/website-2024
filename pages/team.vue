@@ -2,7 +2,7 @@
   <div class="px-4 mt-12">
     <h2 class="text-2xl font-semibold">Team</h2>
     <div class="grid w-full grid-cols-1 gap-4 mt-4 md:grid-cols-2">
-      <CardTeam v-for="(member, i) in Team" :key="i" :name="member.name" :designation="member.designation" :gender="member.gender" />
+      <CardTeam v-for="(member, i) in Team" :key="i" :name="member.name" :designation="member.designation" :github="member.github" :twitter="member.twitter" :linkedin="member.linkedin" :gender="member.gender" />
     </div>
 
     <h2 class="mt-4 text-2xl font-semibold">Genesis</h2>

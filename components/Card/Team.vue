@@ -8,9 +8,15 @@
             <h3 class="text-base font-semibold">{{name}}</h3>
             <p class="text-sm font-medium text-gray-500 break-words">{{designation}}</p>
             <p class="flex flex-row items-center justify-start gap-2 text-xs font-medium text-gray-400">
+              <NuxtLink v-if="github" :to="github" target="_blank">
                 <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+              </NuxtLink>
+              <NuxtLink v-if="twitter" :to="twitter" target="_blank">
                 <SvgoTwitter class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+              </NuxtLink>
+              <NuxtLink v-if="linkedin" :to="linkedin" target="_blank">
                 <SvgoLinkedin class="w-4 h-4 cursor-pointer hover:text-gray-600" />
+              </NuxtLink>
             </p>
         </div>
     </div>
