@@ -1,4 +1,4 @@
-enum Gender{
+enum Gender {
     Male = 'male',
     Female = 'female',
 }
@@ -6,7 +6,8 @@ enum Gender{
 export const Alums = [
     {
         name: 'Richa',
-        designation: 'Software Developer, JP Morgan & Chase',
+        designation_a: 'Software Developer, JP Morgan & Chase',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -15,7 +16,8 @@ export const Alums = [
     },
     {
         name: 'Chirag Baghasingh',
-        designation: 'Ethereum Protocol Fellow',
+        designation_a: 'Ethereum Protocol Fellow',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -24,7 +26,8 @@ export const Alums = [
     },
     {
         name: 'Movish Verma',
-        designation: 'Software Developer, SAP Labs',
+        designation_a: 'Software Developer, SAP Labs',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -33,7 +36,8 @@ export const Alums = [
     },
     {
         name: 'Neerav Chittora',
-        designation: 'Software Developer, Google',
+        designation_a: 'Software Developer, Google',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -42,7 +46,8 @@ export const Alums = [
     },
     {
         name: 'Pooja Patel',
-        designation: 'Software Developer, Microsoft',
+        designation_a: 'Software Developer, Microsoft',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -51,7 +56,8 @@ export const Alums = [
     },
     {
         name: 'Parthsarthi Mishra',
-        designation: 'Software Engineer, Qualcomm',
+        designation_a: 'Software Engineer, Qualcomm',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -60,7 +66,8 @@ export const Alums = [
     },
     {
         name: 'Kamal Sharma',
-        designation: '',
+        designation_a: '',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -69,7 +76,8 @@ export const Alums = [
     },
     {
         name: 'Yash Bhanushali',
-        designation: '',
+        designation_a: '',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -78,7 +86,8 @@ export const Alums = [
     },
     {
         name: 'Jatin Agarwal',
-        designation: '',
+        designation_a: '',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',

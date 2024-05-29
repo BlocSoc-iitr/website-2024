@@ -1,4 +1,4 @@
-enum Gender{
+enum Gender {
     Male = 'male',
     Female = 'female',
 }
@@ -6,7 +6,8 @@ enum Gender{
 export const Genesis = [
     {
         name: 'Pradyuman Verma',
-        designation: 'COO and Co-Founder at Blockflow',
+        designation_a: 'COO and Co-Founder at Blockflow',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -15,7 +16,8 @@ export const Genesis = [
     },
     {
         name: 'Vaibhav Khanna',
-        designation: 'CEO and Co-Founder at Blockflow',
+        designation_a: 'CEO and Co-Founder at Blockflow',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -24,7 +26,8 @@ export const Genesis = [
     },
     {
         name: 'Aditya Gite',
-        designation: 'Research & Product at Fluid, Instadapp',
+        designation_a: 'Research & Product at Fluid, Instadapp',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -33,7 +36,8 @@ export const Genesis = [
     },
     {
         name: 'Samarpan Dutta',
-        designation: 'Co-Founder at Lucidly Finance',
+        designation_a: 'Co-Founder at Lucidly Finance',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',

@@ -6,7 +6,8 @@ enum Gender{
 export const Team = [
     {
         name: 'Yash Saraswat',
-        designation: 'President, Intern at EigenLayer',
+        designation_a: 'President',
+        designation_b: 'Intern at EigenLayer',
         image: '',
         github: 'https://github.com/0xpanicError/',
         twitter: 'https://x.com/0xpanicError/',
@@ -15,7 +16,8 @@ export const Team = [
     },
     {
         name: 'Samaredra Gouda',
-        designation: 'Vice President, Dev at Instadapp',
+        designation_a: 'Vice President',
+        designation_b: 'Dev at Instadapp',
         image: '',
         github: 'https://github.com/SamarendraGouda/',
         twitter: 'https://x.com/0xSamarendra/',
@@ -24,7 +26,8 @@ export const Team = [
     },
     {
         name: 'Aditya Gupta',
-        designation: 'Vice President, SoB 2023',
+        designation_a: 'Vice President',
+        designation_b: 'SoB 2023',
         image: '',
         github: 'https://github.com/1010adigupta/',
         twitter: 'https://x.com/darex_1010/',
@@ -33,7 +36,8 @@ export const Team = [
     },
     {
         name: 'Mihir Chandwani',
-        designation: 'Joint Administrator, Intern at Netherminds',
+        designation_a: 'Joint Administrator',
+        designation_b: 'Intern at Netherminds',
         image: '',
         github: '',
         twitter: 'https://x.com/mihir_1101/',
@@ -42,7 +46,8 @@ export const Team = [
     },
     {
         name: 'Shourya Goel',
-        designation: 'Head of Research, intern at Netherminds',
+        designation_a: 'Head of Research',
+        designation_b: 'Intern at Netherminds',
         image: '',
         github: 'https://github.com/Sh0g0-1758/',
         twitter: 'https://x.com/ShogLoFi/',
@@ -51,7 +56,8 @@ export const Team = [
     },
     {
         name: 'Nilav Prajapati',
-        designation: 'Head of Development',
+        designation_a: 'Head of Development',
+        designation_b: '',
         image: '',
         github: 'https://github.com/gerceboss/',
         twitter: 'https://twitter.com/gerceboss_21/',
@@ -60,7 +66,8 @@ export const Team = [
     },
     {
         name: 'Preeti Karnwal',
-        designation: 'Head of Security',
+        designation_a: 'Head of Security',
+        designation_b: '',
         image: '',
         github: 'https://github.com/blueh4mster/',
         twitter: 'https://x.com/cherryboss0604/',
@@ -69,7 +76,8 @@ export const Team = [
     },
     {
         name: 'Vasu Khanna',
-        designation: 'Head of Open-Source, at Lucidly Finance',
+        designation_a: 'Head of Open-Source',
+        designation_b: 'At Lucidly Finance',
         image: '',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
@@ -78,7 +86,18 @@ export const Team = [
     },
     {
         name: 'Omkar Darde',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
+        image: '',
+        github: '',
+        twitter: '',
+        linkedin: '',
+        gender: Gender.Male
+    },
+    {
+        name: 'Shivam Verma',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -87,7 +106,8 @@ export const Team = [
     },
     {
         name: 'Prabhat Verma',
-        designation: 'Developer, SoB 24 at Bitcoin core',
+        designation_a: 'Developer',
+        designation_b: 'SoB 24 at Bitcoin core',
         image: '',
         github: 'https://github.com/Prabhat1308/',
         twitter: 'https://x.com/pr0b0t1sc00l/',
@@ -96,7 +116,8 @@ export const Team = [
     },
     {
         name: 'Shashank Trivedi',
-        designation: 'Developer, Building Eastore',
+        designation_a: 'Developer',
+        designation_b: 'Building Eastore',
         image: '',
         github: 'https://github.com/lordshashank/',
         twitter: 'https://x.com/0xlord_forever/',
@@ -105,7 +126,8 @@ export const Team = [
     },
     {
         name: 'Sumit Kumar',
-        designation: 'Developer, Dev at NeoBase',
+        designation_a: 'Developer',
+        designation_b: 'Dev at NeoBase',
         image: '',
         github: 'https://github.com/startup-dreamer/',
         twitter: 'https://x.com/Startup_dmr/',
@@ -114,7 +136,8 @@ export const Team = [
     },
     {
         name: 'Priyanshu Mehra',
-        designation: 'Head of Design',
+        designation_a: 'Head of Design',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -123,7 +146,8 @@ export const Team = [
     },
     {
         name: 'Varun Sharma',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -132,7 +156,8 @@ export const Team = [
     },
     {
         name: 'Naman Harwani',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/burgerdrummer/',
         twitter: 'https://twitter.com/BurgerDrummer/',
@@ -141,7 +166,8 @@ export const Team = [
     },
     {
         name: 'Barun Sethi',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -150,7 +176,8 @@ export const Team = [
     },
     {
         name: 'Vaishnavi Singh',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -159,7 +186,8 @@ export const Team = [
     },
     {
         name: 'Alok Kumar',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -168,7 +196,8 @@ export const Team = [
     },
     {
         name: 'Archit Gangwal',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -177,7 +206,8 @@ export const Team = [
     },
     {
         name: 'Puspendra Mahariya',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -186,7 +216,8 @@ export const Team = [
     },
     {
         name: 'Aakash Ramesh',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/AakashR-325/',
         twitter: 'https://twitter.com/Cicada3978/',
@@ -195,7 +226,8 @@ export const Team = [
     },
     {
         name: 'Mradul Singhal',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/cy4n1d3-p1x3l/',
         twitter: 'https://x.com/0xcyanide/',
@@ -204,7 +236,8 @@ export const Team = [
     },
     {
         name: 'Hardik Kansal',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/hardik-kansal/',
         twitter: 'https://x.com/Slappy_TD/',
@@ -213,7 +246,8 @@ export const Team = [
     },
     {
         name: 'Aditya Kora',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/Aditya-Kora/',
         twitter: 'https://x.com/KoraAditya2004/',
@@ -222,7 +256,8 @@ export const Team = [
     },
     {
         name: 'Gyanshu Pathak',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/gyanshupathak/',
         twitter: 'https://x.com/gyanshu_pathak/',
@@ -231,7 +266,8 @@ export const Team = [
     },
     {
         name: 'Abhijeet Dixit',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: 'https://x.com/Abhijeet200309',
@@ -240,7 +276,8 @@ export const Team = [
     },
     {
         name: 'Himanshu Raheja',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -249,7 +286,8 @@ export const Team = [
     },
     {
         name: 'Deep Umrajkar',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -258,7 +296,8 @@ export const Team = [
     },
     {
         name: 'Kishan Singh',
-        designation: 'Designer',
+        designation_a: 'Designer',
+        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -267,7 +306,8 @@ export const Team = [
     },
     {
         name: 'Aniruddh Yadav',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/0xcirxle/',
         twitter: 'https://x.com/0xCirxle/',
@@ -276,7 +316,8 @@ export const Team = [
     },
     {
         name: 'Rishik Pulhani',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/Rishikpulhani/',
         twitter: 'https://x.com/rishikpulhani/',
@@ -285,7 +326,8 @@ export const Team = [
     },
     {
         name: 'Veer Chaurasia',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/VeerChaurasia/',
         twitter: 'https://x.com/0xpsuedo/',
@@ -294,7 +336,8 @@ export const Team = [
     },
     {
         name: 'Abdullah Azeem',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/ABD-AZE/',
         twitter: 'https://x.com/ABD__AZE/',
@@ -303,7 +346,8 @@ export const Team = [
     },
     {
         name: 'Shourya Chaudhry',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/18aaddy',
         twitter: 'https://x.com/xprvAaddy/',
@@ -312,7 +356,8 @@ export const Team = [
     },
     {
         name: 'Sambhav Jain',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/DarkLord017/',
         twitter: 'https://x.com/EtherPatronus/',
@@ -321,7 +366,8 @@ export const Team = [
     },
     {
         name: 'Shradhdha Agrawal',
-        designation: 'Developer',
+        designation_a: 'Developer',
+        designation_b: '',
         image: '',
         github: 'https://github.com/practicalPanda7325/',
         twitter: 'https://x.com/0xPanda7325/',
