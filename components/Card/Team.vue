@@ -7,7 +7,7 @@
     <div class="flex flex-col gap-2 w-40">
       <h3 class="text-base font-semibold">{{name}}</h3>
       <p class="text-sm font-medium text-gray-500 break-words">{{designation_a}}</p>
-      <p class="text-sm font-medium text-gray-500 break-words">{{designation_b}}</p>
+      <p v-if="designation_b" class="text-sm font-medium text-gray-500 break-words">{{designation_b}}</p>
       <p class="flex flex-row items-center justify-start gap-2 text-xs font-medium text-gray-400">
         <NuxtLink v-if="github" :to="github" target="_blank">
           <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
@@ -27,7 +27,7 @@
 const props = defineProps<{
   name: string;
   designation_a: string;
-  designation_b: string;
+  designation_b?: string;
   github: string;
   twitter: string;
   linkedin: string;

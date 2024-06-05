@@ -7,7 +7,6 @@ export const Genesis = [
     {
         name: 'Pradyuman Verma',
         designation_a: 'COO and Co-Founder at Blockflow',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -17,7 +16,6 @@ export const Genesis = [
     {
         name: 'Vaibhav Khanna',
         designation_a: 'CEO and Co-Founder at Blockflow',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -27,7 +25,6 @@ export const Genesis = [
     {
         name: 'Aditya Gite',
         designation_a: 'Research & Product at Fluid, Instadapp',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -37,7 +34,6 @@ export const Genesis = [
     {
         name: 'Samarpan Dutta',
         designation_a: 'Co-Founder at Lucidly Finance',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',

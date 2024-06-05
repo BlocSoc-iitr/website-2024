@@ -7,7 +7,6 @@ export const Alums = [
     {
         name: 'Richa',
         designation_a: 'Software Developer, JP Morgan & Chase',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -17,7 +16,6 @@ export const Alums = [
     {
         name: 'Chirag Baghasingh',
         designation_a: 'Ethereum Protocol Fellow',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -27,7 +25,6 @@ export const Alums = [
     {
         name: 'Movish Verma',
         designation_a: 'Software Developer, SAP Labs',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -37,7 +34,6 @@ export const Alums = [
     {
         name: 'Neerav Chittora',
         designation_a: 'Software Developer, Google',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -47,7 +43,6 @@ export const Alums = [
     {
         name: 'Pooja Patel',
         designation_a: 'Software Developer, Microsoft',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -57,7 +52,6 @@ export const Alums = [
     {
         name: 'Parthsarthi Mishra',
         designation_a: 'Software Engineer, Qualcomm',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -67,7 +61,6 @@ export const Alums = [
     {
         name: 'Kamal Sharma',
         designation_a: '',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -77,7 +70,6 @@ export const Alums = [
     {
         name: 'Yash Bhanushali',
         designation_a: '',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
@@ -87,7 +79,6 @@ export const Alums = [
     {
         name: 'Jatin Agarwal',
         designation_a: '',
-        designation_b: '',
         image: '',
         github: '',
         twitter: '',
