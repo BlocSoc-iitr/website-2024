@@ -7,7 +7,7 @@ export const Alums = [
     {
         name: 'Richa',
         designation_a: 'Software Developer, JP Morgan & Chase',
-        image: '',
+        image: '/_nuxt/assets/images/richa.jpg',
         github: '',
         twitter: 'https://x.com/richa3112/',
         linkedin: 'https://www.linkedin.com/in/richa-3087a120a/',
@@ -16,7 +16,7 @@ export const Alums = [
     {
         name: 'Chirag Baghasingh',
         designation_a: 'Ethereum Protocol Fellow',
-        image: '',
+        image: '/_nuxt/assets/images/chirag.jpg',
         github: 'https://github.com/chirag-bgh/',
         twitter: 'https://x.com/0xstrider_/',
         linkedin: 'https://www.linkedin.com/in/chirag-baghasingh-753b711b9/',
@@ -25,7 +25,7 @@ export const Alums = [
     {
         name: 'Movish Verma',
         designation_a: 'Software Developer, SAP Labs',
-        image: '',
+        image: '/_nuxt/assets/images/movish.jpg',
         github: '',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/movishverma/',
@@ -43,7 +43,7 @@ export const Alums = [
     {
         name: 'Pooja Patel',
         designation_a: 'Software Developer, Microsoft',
-        image: '',
+        image: '/_nuxt/assets/images/pooja.jpg',
         github: '',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/pooja-patel-512b29227/',
@@ -52,7 +52,7 @@ export const Alums = [
     {
         name: 'Parthsarthi Mishra',
         designation_a: 'Software Engineer, Qualcomm',
-        image: '',
+        image: '/_nuxt/assets/images/parthsarthi.jpg',
         github: '',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/parthsarthi-mishra-86a30814b/',
@@ -61,7 +61,7 @@ export const Alums = [
     {
         name: 'Kamal Sharma',
         designation_a: '',
-        image: '',
+        image: '/_nuxt/assets/images/kamal.jpg',
         github: 'https://github.com/kamal3951/',
         twitter: 'https://x.com/kamal3951/',
         linkedin: 'https://www.linkedin.com/in/kamalsharma01/',
@@ -70,7 +70,7 @@ export const Alums = [
     {
         name: 'Yash Bhanushali',
         designation_a: '',
-        image: '',
+        image: '/_nuxt/assets/images/yash.jpg',
         github: '',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/yash-bhanushali-a34a2a22a/',
@@ -79,7 +79,7 @@ export const Alums = [
     {
         name: 'Jatin Agarwal',
         designation_a: '',
-        image: '',
+        image: '/_nuxt/assets/images/jatin.jpg',
         github: '',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/jatinagarwal69/',
