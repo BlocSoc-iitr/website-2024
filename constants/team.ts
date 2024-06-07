@@ -8,7 +8,7 @@ export const Team = [
         name: 'Yash Saraswat',
         designation_a: 'President',
         designation_b: 'Intern at EigenLayer',
-        image: '~/assets/images/panic.png',
+        image: '/_nuxt/assets/images/panic.png',
         github: 'https://github.com/0xpanicError/',
         twitter: 'https://x.com/0xpanicError/',
         linkedin: 'https://www.linkedin.com/in/yash2399/',
