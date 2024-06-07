@@ -1,7 +1,8 @@
 <template>
   <div class="flex flex-row gap-4 w-80">
     <div class="w-24 h-24 bg-gray-100">
-      <SvgoProfileMale v-if="gender === 'male'" class="w-24 h-24 text-gray-400"/>
+      <img v-if="props.image" :src="props.image" :alt="props.name" class="w-24 h-24 object-cover" />
+      <SvgoProfileMale v-else-if="props.gender === 'male'" class="w-24 h-24 text-gray-400"/>
       <SvgoProfileFemale v-else class="w-24 h-24 text-gray-400"/>
     </div>
     <div class="flex flex-col gap-2 w-40">
@@ -28,6 +29,7 @@ const props = defineProps<{
   name: string;
   designation_a: string;
   designation_b?: string;
+  image?: string;
   github: string;
   twitter: string;
   linkedin: string;
