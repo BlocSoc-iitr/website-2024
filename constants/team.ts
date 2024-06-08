@@ -7,10 +7,10 @@ export const Team = [
     {
         name: 'Yash Saraswat',
         designation_a: 'President',
-        designation_b: 'Intern at EigenLayer',
+        designation_b: 'Dev at Othentic Labs',
         image: '/images/panic.png',
         github: 'https://github.com/0xpanicError/',
-        twitter: 'https://x.com/0xpanicError/',
+        twitter: 'https://twitter.com/0xpanicError/',
         linkedin: 'https://www.linkedin.com/in/yash2399/',
         gender: Gender.Male,
     },
@@ -27,7 +27,7 @@ export const Team = [
     {
         name: 'Aditya Gupta',
         designation_a: 'Vice President',
-        designation_b: 'SoB 2023',
+        designation_b: 'Ethereum Protocol Fellow',
         image: '/images/aditya.jpg',
         github: 'https://github.com/1010adigupta/',
         twitter: 'https://x.com/darex_1010/',
@@ -75,7 +75,7 @@ export const Team = [
     {
         name: 'Vasu Khanna',
         designation_a: 'Head of Open-Source',
-        designation_b: 'At Lucidly Finance',
+        designation_b: 'Intern at Lucidly Finance',
         image: '/images/vasu.jpg',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
@@ -133,6 +133,7 @@ export const Team = [
     {
         name: 'Priyanshu Mehra',
         designation_a: 'Head of Design',
+        designation_b: 'Intern at Nudge',
         image: '/images/priyanshu.jpg',
         github: 'https://github.com/Priyanshu95663/',
         twitter: 'https://x.com/Priynshu_M03/',
@@ -142,6 +143,7 @@ export const Team = [
     {
         name: 'Varun Sharma',
         designation_a: 'Core Member',
+        designation_b: 'Watson at Sherlock',
         image: '',
         github: 'https://www.linkedin.com/in/vsharma4394/',
         twitter: '',
@@ -169,6 +171,7 @@ export const Team = [
     {
         name: 'Vaishnavi Singh',
         designation_a: 'Core Member',
+        designation_b: 'Intern at Xalts',
         image: '/images/vaishnavi.jpg',
         github: 'https://github.com/07Vaishnavi_Singh/',
         twitter: 'https://x.com/Vaiz_07/',
@@ -187,7 +190,7 @@ export const Team = [
     {
         name: 'Archit Gangwal',
         designation_a: 'Core Member',
-        image: '',
+        image: '/images/archit.jpeg',
         github: 'https://github.com/arcwood/',
         twitter: '',
         linkedin: 'https://www.linkedin.com/in/archit-gangwal-16b035228/',
@@ -196,6 +199,7 @@ export const Team = [
     {
         name: 'Puspendra Mahariya',
         designation_a: 'Core Member',
+        designation_b: 'Intern at BlockFlow',
         image: '',
         github: 'https://github.com/me-loser/',
         twitter: 'https://x.com/puspendra_maha/',
@@ -359,15 +363,15 @@ export const Team = [
         name: 'Ajay Odedra',
         designation_a: 'Designer',
         image: '/images/ajay.jpg',
-        github: '',
-        twitter: '',
+        github: 'https://github.com/Spyder111A/',
+        twitter: 'https://x.com/AjayOdedra84029/',
         linkedin: 'https://www.linkedin.com/in/ajay-odedra-b26923283/',
         gender: Gender.Male
     },
     {
         name: 'Cheshta Bhandari',
         designation_a: 'Designer',
-        image: '',
+        image: '/images/cheshta.jpeg',
         github: 'https://github.com/CheshtaB/',
         twitter: '',
         linkedin: '',
