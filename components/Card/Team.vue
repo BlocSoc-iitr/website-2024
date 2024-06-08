@@ -6,7 +6,7 @@
       <SvgoProfileFemale v-else class="w-24 h-24 text-gray-400"/>
     </div>
     <div class="flex flex-col gap-1 justify-between w-40 self-stretch">
-      <h3 class="text-sm font-semibold">{{name}}</h3>
+      <h3 class="text-base font-semibold">{{name}}</h3>
       <p class="text-sm font-medium text-gray-500 break-words">{{designation_a}}</p>
       <p v-if="designation_b" class="text-sm font-medium text-gray-500 break-words">{{designation_b}}</p>
       <p class="flex flex-row items-center justify-start gap-2 text-xs font-medium text-gray-400">

@@ -144,7 +144,7 @@ export const Team = [
         name: 'Varun Sharma',
         designation_a: 'Core Member',
         designation_b: 'Watson at Sherlock',
-        image: '',
+        image: '/images/varun.jpg',
         github: 'https://www.linkedin.com/in/vsharma4394/',
         twitter: '',
         linkedin: '',
@@ -197,7 +197,7 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Puspendra Mahariya',
+        name: 'Puspendra',
         designation_a: 'Core Member',
         designation_b: 'Intern at BlockFlow',
         image: '',
@@ -373,7 +373,7 @@ export const Team = [
         designation_a: 'Designer',
         image: '/images/cheshta.jpeg',
         github: 'https://github.com/CheshtaB/',
-        twitter: '',
+        twitter: 'https://x.com/AshHiAsh_/',
         linkedin: '',
         gender: Gender.Female
     }
