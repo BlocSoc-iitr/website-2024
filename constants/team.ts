@@ -27,7 +27,7 @@ export const Team = [
     {
         name: 'Aditya Gupta',
         designation_a: 'Vice President',
-        designation_b: 'Ethereum Protocol Fellow',
+        designation_b: 'Ethereum Fellow',
         image: '/images/aditya.jpg',
         github: 'https://github.com/1010adigupta/',
         twitter: 'https://x.com/darex_1010/',
@@ -75,7 +75,7 @@ export const Team = [
     {
         name: 'Vasu Khanna',
         designation_a: 'Head of Open-Source',
-        designation_b: 'Intern at Lucidly Finance',
+        designation_b: 'Intern at Lucidly Fi',
         image: '/images/vasu.jpg',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
