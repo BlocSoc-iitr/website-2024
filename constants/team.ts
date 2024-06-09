@@ -37,7 +37,7 @@ export const Team = [
     {
         name: 'Mihir Chandwani',
         designation_a: 'Joint Administrator',
-        designation_b: 'Intern at Netherminds',
+        designation_b: 'Intern at Nethermind',
         image: '/images/mihir.jpg',
         github: 'https://github.com/Mihir1101/',
         twitter: 'https://x.com/mihir_1101/',
@@ -47,7 +47,7 @@ export const Team = [
     {
         name: 'Shourya Goel',
         designation_a: 'Head of Research',
-        designation_b: 'Intern at Netherminds',
+        designation_b: 'Intern at Nethermind',
         image: '/images/shourya.png',
         github: 'https://github.com/Sh0g0-1758/',
         twitter: 'https://x.com/ShogLoFi/',
