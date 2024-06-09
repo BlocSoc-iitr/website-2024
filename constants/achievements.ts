@@ -1,6 +1,10 @@
 export const Achievements = [
     {
-        title: "Google Summer of Code",
+        title: "Summer of Nix 2024",
+        year: "2024",
+    },
+    {
+        title: "Google Summer of Code 2024",
         year: "2024",
     },
     {

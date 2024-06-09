@@ -34,7 +34,7 @@ export const Alums = [
     {
         name: 'Neerav Chittora',
         designation_a: 'Software Developer, Google',
-        image: '',
+        image: '/images/neerav.jpeg',
         github: 'https://github.com/neerav1234/',
         twitter: 'https://x.com/NeeravChittora/',
         linkedin: 'https://www.linkedin.com/in/neerav-chittora-a470071ba/',

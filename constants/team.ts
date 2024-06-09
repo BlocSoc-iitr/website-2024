@@ -18,7 +18,7 @@ export const Team = [
         name: 'Samaredra Gouda',
         designation_a: 'Vice President',
         designation_b: 'Dev at Instadapp',
-        image: '/images/samarendra.jpg',
+        image: '/images/samarendra_.jpg',
         github: 'https://github.com/SamarendraGouda/',
         twitter: 'https://x.com/0xSamarendra/',
         linkedin: 'https://www.linkedin.com/in/samarendra-gouda/',
@@ -83,24 +83,6 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Omkar Darde',
-        designation_a: 'Designer',
-        image: '/images/omkar.jpg',
-        github: 'https://github.com/0xClint/',
-        twitter: 'https://x.com/0x_Clint/',
-        linkedin: 'https://www.linkedin.com/in/omkardarde/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Shivam Verma',
-        designation_a: 'Core Member',
-        image: '/images/shivam.jpg',
-        github: 'https://github.com/ShivamPoW/',
-        twitter: 'https://x.com/Shevxer/',
-        linkedin: 'https://www.linkedin.com/in/shivampow/',
-        gender: Gender.Male
-    },
-    {
         name: 'Prabhat Verma',
         designation_a: 'Core Member',
         designation_b: 'SoB 24 at Bitcoin core',
@@ -121,6 +103,15 @@ export const Team = [
         gender: Gender.Male
     },
     {
+        name: 'Alok Kumar',
+        designation_a: 'Core Member',
+        image: '/images/alok.jpg',
+        github: 'https://github.com/surfer05/',
+        twitter: 'https://x.com/surfer__05/',
+        linkedin: 'https://www.linkedin.com/in/alok-kumar-089967220/',
+        gender: Gender.Male
+    },
+    {
         name: 'Sumit Kumar',
         designation_a: 'Core Member',
         designation_b: 'Dev at NeoBase',
@@ -131,41 +122,13 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Priyanshu Mehra',
-        designation_a: 'Head of Design',
-        designation_b: 'Intern at Nudge',
-        image: '/images/priyanshu.jpg',
-        github: 'https://github.com/Priyanshu95663/',
-        twitter: 'https://x.com/Priynshu_M03/',
-        linkedin: 'https://www.linkedin.com/in/priyanshum4design/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Varun Sharma',
+        name: 'Puspendra',
         designation_a: 'Core Member',
-        designation_b: 'Watson at Sherlock',
-        image: '/images/varun.jpg',
-        github: 'https://www.linkedin.com/in/vsharma4394/',
-        twitter: '',
-        linkedin: '',
-        gender: Gender.Male
-    },
-    {
-        name: 'Naman Harwani',
-        designation_a: 'Designer',
-        image: '/images/naman.jpg',
-        github: 'https://github.com/burgerdrummer/',
-        twitter: 'https://twitter.com/BurgerDrummer/',
-        linkedin: 'https://www.linkedin.com/in/namaha/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Barun Sethi',
-        designation_a: 'Designer',
-        image: '/images/barun.jpg',
-        github: '',
-        twitter: '',
-        linkedin: 'https://www.linkedin.com/in/barun-design/',
+        designation_b: 'Intern at BlockFlow',
+        image: '/images/puspendra.jpg',
+        github: 'https://github.com/me-loser/',
+        twitter: 'https://x.com/silent_c1pher/',
+        linkedin: 'https://www.linkedin.com/in/puspendra-mahariya-112059238/',
         gender: Gender.Male
     },
     {
@@ -179,12 +142,42 @@ export const Team = [
         gender: Gender.Female
     },
     {
-        name: 'Alok Kumar',
+        name: 'Varun Sharma',
         designation_a: 'Core Member',
-        image: '/images/alok.jpg',
-        github: 'https://github.com/surfer05/',
-        twitter: 'https://x.com/surfer__05/',
-        linkedin: 'https://www.linkedin.com/in/alok-kumar-089967220/',
+        designation_b: 'Watson at Sherlock',
+        image: '/images/varun.jpg',
+        github: 'https://www.linkedin.com/in/vsharma4394/',
+        twitter: '',
+        linkedin: '',
+        gender: Gender.Male
+    },
+    {
+        name: 'Priyanshu Mehra',
+        designation_a: 'Head of Design',
+        designation_b: 'Intern at Nudge',
+        image: '/images/priyanshu.jpg',
+        github: 'https://github.com/Priyanshu95663/',
+        twitter: 'https://x.com/Priynshu_M03/',
+        linkedin: 'https://www.linkedin.com/in/priyanshum4design/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Barun Sethi',
+        designation_a: 'Designer',
+        designation_b: 'Intern at GoBlu',
+        image: '/images/barun.jpg',
+        github: '',
+        twitter: '',
+        linkedin: 'https://www.linkedin.com/in/barun-design/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Naman Harwani',
+        designation_a: 'Designer',
+        image: '/images/naman.jpg',
+        github: 'https://github.com/burgerdrummer/',
+        twitter: 'https://twitter.com/BurgerDrummer/',
+        linkedin: 'https://www.linkedin.com/in/namaha/',
         gender: Gender.Male
     },
     {
@@ -197,22 +190,32 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Puspendra',
-        designation_a: 'Core Member',
-        designation_b: 'Intern at BlockFlow',
-        image: '',
-        github: 'https://github.com/me-loser/',
-        twitter: 'https://x.com/puspendra_maha/',
-        linkedin: 'https://www.linkedin.com/in/puspendra-mahariya-112059238/',
+        name: 'Omkar Darde',
+        designation_a: 'Designer',
+        designation_b: 'Unfold finalist',
+        image: '/images/omkar.jpg',
+        github: 'https://github.com/0xClint/',
+        twitter: 'https://x.com/0x_Clint/',
+        linkedin: 'https://www.linkedin.com/in/omkardarde/',
         gender: Gender.Male
     },
     {
-        name: 'Aakash Ramesh',
+        name: 'Shivam Verma',
         designation_a: 'Core Member',
-        image: '/images/aakash.jpg',
-        github: 'https://github.com/AakashR-325/',
-        twitter: 'https://twitter.com/Cicada3978/',
-        linkedin: 'https://www.linkedin.com/in/aakash-ramesh-a683b2253/',
+        designation_b: 'Unfold finalist',
+        image: '/images/shivam.jpg',
+        github: 'https://github.com/ShivamPoW/',
+        twitter: 'https://x.com/Shevxer/',
+        linkedin: 'https://www.linkedin.com/in/shivampow/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Himanshu Raheja',
+        designation_a: 'Core Member',
+        image: '/images/himanshu.jpg',
+        github: 'https://github.com/harry2855/',
+        twitter: 'https://x.com/ImHraheja/',
+        linkedin: 'https://www.linkedin.com/in/himanshu-raheja-611381270/',
         gender: Gender.Male
     },
     {
@@ -234,12 +237,12 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Gyanshu Pathak',
-        designation_a: 'Designer',
-        image: '/images/gyanshu.jpeg',
-        github: 'https://github.com/gyanshupathak/',
-        twitter: 'https://x.com/gyanshu_pathak/',
-        linkedin: 'https://www.linkedin.com/in/gyanshu-pathak/',
+        name: 'Aakash Ramesh',
+        designation_a: 'Core Member',
+        image: '/images/aakash.jpg',
+        github: 'https://github.com/AakashR-325/',
+        twitter: 'https://twitter.com/Cicada3978/',
+        linkedin: 'https://www.linkedin.com/in/aakash-ramesh-a683b2253/',
         gender: Gender.Male
     },
     {
@@ -252,15 +255,6 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Himanshu Raheja',
-        designation_a: 'Core Member',
-        image: '/images/himanshu.jpg',
-        github: 'https://github.com/harry2855/',
-        twitter: 'https://x.com/ImHraheja/',
-        linkedin: 'https://www.linkedin.com/in/himanshu-raheja-611381270/',
-        gender: Gender.Male
-    },
-    {
         name: 'Kishan Singh',
         designation_a: 'Designer',
         image: '/images/kishan.jpg',
@@ -270,9 +264,18 @@ export const Team = [
         gender: Gender.Male
     },
     {
+        name: 'Gyanshu Pathak',
+        designation_a: 'Designer',
+        image: '/images/gyanshu.jpeg',
+        github: 'https://github.com/gyanshupathak/',
+        twitter: 'https://x.com/gyanshu_pathak/',
+        linkedin: 'https://www.linkedin.com/in/gyanshu-pathak/',
+        gender: Gender.Male
+    },
+    {
         name: 'Aniruddh Yadav',
         designation_a: 'Core Member',
-        image: '/images/aniruddh.jpg',
+        image: '/images/aniruddh_.jpg',
         github: 'https://github.com/0xcirxle/',
         twitter: 'https://x.com/0xCirxle/',
         linkedin: 'https://www.linkedin.com/in/aniruddh-yadav-259490299/',
@@ -326,7 +329,7 @@ export const Team = [
     {
         name: 'Shradhdha Agrawal',
         designation_a: 'Core Member',
-        image: '',
+        image: '/images/shradhdha.jpeg',
         github: 'https://github.com/practicalPanda7325/',
         twitter: 'https://x.com/0xPanda7325/',
         linkedin: 'https://www.linkedin.com/in/shradhdha-agrawal-44039128b/',
