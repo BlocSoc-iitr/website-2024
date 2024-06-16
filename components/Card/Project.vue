@@ -1,20 +1,17 @@
 <template>
-  <div class="flex flex-row w-full gap-6">
-    <div class="w-24 h-24 bg-gray-100">
-      <SvgoProject class="w-24 h-24 text-gray-400" />
+  <div class="flex flex-row gap-4 w-80">
+    <div class="w-24 h-24 self-stretch">
+      <img v-if="project.image" :src="project.image" :alt="project.title" class="w-24 h-full" />
+      <SvgoProject v-else class="w-24 h-24 text-gray-400" />
     </div>
-    <div class="flex flex-col w-full gap-2">
-      <div class="flex flex-row items-center justify-start gap-2">
-      <h3 class="text-base font-semibold">{{ project.title }}</h3>
-       <p
-        class="text-xs font-medium text-gray-400 cursor-pointer hover:text-gray-500"
-      >
-        <NuxtLink :to="project.github" target="_blank">
-          <SvgoGithub class="w-4 h-4" />
+    <div class="flex flex-col gap-1 justify-between w-40 self-stretch">
+      <h3 class="text-base font-semibold">{{project.title}}</h3>
+      <p class="text-sm font-medium text-gray-500 break-words">{{project.description}}</p>
+      <p class="flex flex-row items-center justify-start gap-2 text-xs font-medium text-gray-400">
+        <NuxtLink v-if="project.github" :to="project.github" target="_blank">
+          <SvgoGithub class="w-4 h-4 cursor-pointer hover:text-gray-600" />
         </NuxtLink>
       </p>
-      </div>
-      <p class="text-sm font-medium text-gray-500">{{ project.description }}</p>
     </div>
   </div>
 </template>
