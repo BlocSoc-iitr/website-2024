@@ -1,5 +1,5 @@
 <template>
-  <div class="px-4 mt-12">
+  <div class="flex-grow px-4 mt-12">
     <h2 class="text-2xl font-semibold">Projects</h2>
     <div class="grid w-full grid-cols-1 gap-4 mt-4 md:grid-cols-2">
       <CardProject v-for="project in projects" :key="project.title" :project="project" />
@@ -24,13 +24,13 @@ const projects = [
   // },
   {
     title: 'OpenStylus',
-    description: 'Gas Optimised library for Arbitrum Stylus',
+    description: 'Gas Optimised Library for Arbitrum Stylus',
     image: '/project_images/openstylus.webp',
     github: 'https://devfolio.co/projects/open-stylus-0f80'
   },
   {
     title: 'HorseRiders',
-    description: 'Complex math and FFT library for huff',
+    description: 'Complex Math and FFT Library for Huff',
     image: '/project_images/horseriders.png',
     github: 'https://github.com/BlocSoc-iitr/HorseRiders'
   },
@@ -42,7 +42,7 @@ const projects = [
   },
   {
     title: 'FLockChain',
-    description: 'Federated learning on proof of stake',
+    description: 'Federated Learning on Proof of Stake',
     image: '/project_images/flockchain.png',
     github: 'https://devfolio.co/projects/flockchain-88eb'
   },
@@ -66,7 +66,7 @@ const projects = [
   // },
   {
     title: 'zkMask',
-    description: "zk face recognition for 2FA",
+    description: "ZK Face Recognition for Biometric 2FA",
     image: '/project_images/zkmask_.jpeg',
     github: 'https://ethglobal.com/showcase/zkmask-0x1z4'
   },

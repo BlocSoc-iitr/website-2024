@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-start justify-center w-full">
-    <div class="w-full max-w-2xl mt-8">
+    <div class="flex flex-col min-h-[96vh] w-full max-w-2xl mt-8">
       <header class="flex flex-col w-full">
         <div
           class="flex flex-row items-center justify-start w-full pb-4 border-b border-gray-200"
