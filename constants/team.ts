@@ -126,7 +126,7 @@ export const Team = [
         designation_a: 'Core Member',
         designation_b: 'Intern at BlockFlow',
         image: '/team_images/puspendra.jpg',
-        github: 'https://github.com/me-loser/',
+        github: 'https://github.com/silent-cipher/',
         twitter: 'https://x.com/silent_c1pher/',
         linkedin: 'https://www.linkedin.com/in/puspendra-mahariya-112059238/',
         gender: Gender.Male
@@ -257,6 +257,7 @@ export const Team = [
     {
         name: 'Kishan Singh',
         designation_a: 'Designer',
+        designation_b: 'Intern at Flomoney',
         image: '/team_images/kishan.jpg',
         github: 'https://github.com/Alex_iitr/',
         twitter: 'https://x.com/kishan_iitr/',
@@ -266,6 +267,7 @@ export const Team = [
     {
         name: 'Gyanshu Pathak',
         designation_a: 'Designer',
+        designation_b: 'Intern at Genloop',
         image: '/team_images/gyanshu.jpeg',
         github: 'https://github.com/gyanshupathak/',
         twitter: 'https://x.com/gyanshu_pathak/',
