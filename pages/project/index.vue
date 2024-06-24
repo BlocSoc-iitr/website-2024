@@ -16,4 +16,3 @@
 import {projects} from "~/constants/projects"
 import {startups} from "~/constants/projects"
 </script>
-

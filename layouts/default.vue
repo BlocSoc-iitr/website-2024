@@ -16,7 +16,7 @@
         >
           <div class="flex flex-row items-center justify-start w-full overflow-x-auto font-medium">
             <NuxtLink to="/" class="p-4">Home</NuxtLink>
-            <NuxtLink to="/project" class="p-4">Works</NuxtLink>
+            <NuxtLink to="/project" class="p-4">Our Work</NuxtLink>
             <!-- <NuxtLink to="/events" class="p-4">Events</NuxtLink> -->
             <NuxtLink to="/achievements" class="p-4">Achievements</NuxtLink>
             <!-- <NuxtLink to="/resources" class="p-4">Resources</NuxtLink> -->
