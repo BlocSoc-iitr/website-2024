@@ -23,4 +23,12 @@ export default defineNuxtConfig({
   vite: {
     assetsInclude: ["**/*.JPG"],
   },
+  nitro:{
+    prerender: {
+      routes: ["/", "/project"],
+    },
+    routeRules: {
+      "/**": {static: true},
+    }
+  }
 });
