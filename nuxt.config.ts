@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     "@nuxt/ui",
     "nuxt-svgo",
   ],
-  ssr: false,
+  ssr: true,
   svgo: {
     defaultImport: "component",
     autoImportPath: "./assets/icons",
