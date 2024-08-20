@@ -38,13 +38,6 @@ export const projects = [
     //   image: '',
     //   github: 'https://github.com/BlocSoc-iitr/selene'
     // },
-    // {
-    //   title: 'Beskar',
-    //   year: '2023',
-    //   description: 'Beskar project',
-    //   image: '',
-    //   github: 'https://github.com/BlocSoc-iitr/Beskar'
-    // },
     {
         title: 'OpenStylus',
         year: '2023',
@@ -99,12 +92,6 @@ export const projects = [
         ethereum: 'https://ethglobal.com/showcase/flockchain-855yg/',
     },
     // {
-    //   title: 'DappHack',
-    //   description: 'Dapphack project.',
-    //   image: '',
-    //   github: 'https://ethglobal.com/showcase/dapphack-4tjef'
-    // },
-    // {
     //   title: 'ETHTools',
     //   description: 'ETHTools project',
     //   image: '',
@@ -147,5 +134,44 @@ export const projects = [
         devfolio: 'https://devfolio.co/projects/hyperland-da6b',
         devpost: '',
         ethereum: '',
-    }
+    },
+    {
+        title: 'DappHack',
+        year: '2023',
+        description: 'Web3 Hackathon Portal',
+        desca: 'DappHack is a Web3 Hackathon Portal. It is a platform for hosting hackathons and events related to web3.',
+        descb: 'Builders can stake in any of the supported tokens, and similarly for the sponsors, they can pay the prize in of those tokens. Builders also get on-chain proofs of their projects as NFTs.',
+        image: '',
+        github: 'https://github.com/BlocSoc-iitr/DappHack',
+        website: '',
+        devfolio: '',
+        devpost: '',
+        ethereum: 'https://ethglobal.com/showcase/dapphack-4tjefv',
+    },
+    {
+        title: 'Beskar',
+        year: '2023',
+        description: 'A mutation testing suite written in Rust',
+        desca: 'Beskar is a tool which uses gambit, a mutant generation tool from Certora to perform mutation testing on foundry projects.',
+        descb: 'It allows developers to perform analysis of their tests and improve the test coverage by giving a smooth overview of results of testing on each mutant.',
+        image: '/project_images/beskar.png',
+        github: 'https://github.com/BlocSoc-iitr/Beskar',
+        website: '',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+    },
+    {
+        title: 'Rex',
+        year: '2024',
+        description: 'Ethereum indexer built using Reth',
+        desca: 'Rex is designed to efficiently index and store specific events from the Ethereum Sepolia blockchain.',
+        descb: 'Rex utilizes Reths blazing fast Execution Client to create a high-performance, real-time indexing solution.',
+        image: '/project_images/rex.png',
+        github: 'https://github.com/BlocSoc-iitr/Beskar',
+        website: 'https://rex-frontend-one.vercel.app/',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+    },
 ]

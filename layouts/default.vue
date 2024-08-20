@@ -21,6 +21,7 @@
             <NuxtLink to="/achievements" class="p-4">Achievements</NuxtLink>
             <!-- <NuxtLink to="/resources" class="p-4">Resources</NuxtLink> -->
             <NuxtLink to="/team" class="p-4">Team</NuxtLink>
+            <NuxtLink to="/writing" class="p-4">Writing</NuxtLink>
           </div>
         </div>
       </header>

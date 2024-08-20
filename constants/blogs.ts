@@ -1,0 +1,35 @@
+export const BlogPosts = [
+    {
+        id: 1,
+        title: 'Elliptic Curve Digital Signature Algorithm (ECDSA)',
+        description: 'One of the most significant aspects of bitcoin, or in general any cryptographic currency, is its use of digital signatures. In digital currency, ownership is established by a piece of digital data as opposed to...',
+        content:``,
+        author: 'BlocSoc IITR',
+        date: 'Apr 4, 2023',
+        slug: 'ecdsa',
+        tags: ['Research'],
+        link: 'https://medium.com/@blocsoc.acm/ecdsa-26402064fd34',
+    },
+    {
+        id: 2,
+        title: 'Gas Optimization in Smart Contracts',
+        description: 'As a blockchain scales , scarce resources may become too expensive resulting in only wealthier people being able to participate thereby reducing decentrality , and this in-turn will...',
+        content: ``,
+        author: 'BlocSoc IITR',
+        date: 'Sep 8, 2022',
+        slug: 'gas-optimization',
+        tags: ['Research'],
+        link: 'https://medium.com/@blocsoc.acm/gas-optimization-in-smart-contracts-d4bd508dd361',
+    },
+    {
+        id: 3,
+        title: 'Unfolding the Terra-Luna crash',
+        description: 'Terra is a proof-of-stake layer 1 blockchain built using the Cosmos SDK, propagating the idea of “decentralized money”. According to Terra’s white paper, the founders’ goal was to...',
+        content: ``,
+        author: 'BlocSoc IITR',
+        date: 'Jun 17, 2022',
+        slug: 'terra-luna',
+        tags: ['Research', 'News'],
+        link: 'https://medium.com/@blocsoc.acm/unfolding-the-terra-luna-crash-b7e81beefab',
+    }
+]
