@@ -141,7 +141,7 @@ export const projects = [
         description: 'Web3 Hackathon Portal',
         desca: 'DappHack is a Web3 Hackathon Portal. It is a platform for hosting hackathons and events related to web3.',
         descb: 'Builders can stake in any of the supported tokens, and similarly for the sponsors, they can pay the prize in of those tokens. Builders also get on-chain proofs of their projects as NFTs.',
-        image: '',
+        image: '/project_images/dapphack.jpeg',
         github: 'https://github.com/BlocSoc-iitr/DappHack',
         website: '',
         devfolio: '',
