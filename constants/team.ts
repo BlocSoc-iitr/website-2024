@@ -47,8 +47,8 @@ export const Team = [
     {
         name: 'Shourya Goel',
         designation_a: 'Head of Research',
-        designation_b: 'Intern at Nethermind',
-        image: '/team_images/shourya.png',
+        designation_b: 'DSE at Nethermind',
+        image: '/team_images/shourya_g.jpeg',
         github: 'https://github.com/Sh0g0-1758/',
         twitter: 'https://x.com/ShogLoFi/',
         linkedin: 'https://www.linkedin.com/in/shourya-goel-03b18724b/',
@@ -57,6 +57,7 @@ export const Team = [
     {
         name: 'Nilav Prajapati',
         designation_a: 'Head of Development',
+        designation_b: 'Intern at Lighthouse',
         image: '/team_images/nilav.jpg',
         github: 'https://github.com/gerceboss/',
         twitter: 'https://twitter.com/gerceboss_21/',
@@ -75,7 +76,7 @@ export const Team = [
     {
         name: 'Vasu Khanna',
         designation_a: 'Head of Open-Source',
-        designation_b: 'Intern at Lucidly Fi',
+        designation_b: 'SWE at OTEX',
         image: '/team_images/vasu.jpg',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
@@ -329,30 +330,12 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Shradhdha Agrawal',
-        designation_a: 'Core Member',
-        image: '/team_images/shradhdha.jpeg',
-        github: 'https://github.com/practicalPanda7325/',
-        twitter: 'https://x.com/0xPanda7325/',
-        linkedin: 'https://www.linkedin.com/in/shradhdha-agrawal-44039128b/',
-        gender: Gender.Female
-    },
-    {
         name: 'Utsav Sharma',
         designation_a: 'Core Member',
         image: '/team_images/utsav.jpg',
         github: 'https://github.com/x-senpai-x/',
         twitter: 'https://x.com/UtsavSh17266310/',
         linkedin: 'https://www.linkedin.com/in/utsav-sharma-84a6631b9/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Tungala Venkata Sai Nihar',
-        designation_a: 'Core Member',
-        image: '/team_images/venkat.jpg',
-        github: 'https://github.com/venkvict/',
-        twitter: 'https://x.com/NiharTunga8921/',
-        linkedin: 'https://www.linkedin.com/in/tungala-venkata-sai-nihar-bb4330288/',
         gender: Gender.Male
     },
     {
