@@ -1,0 +1,42 @@
+name: Deploy Vue.js Application
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push to the main branch
+  pull_request:
+    types: [closed]  # Trigger on PR merge
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build the project
+      run: npm run build
+
+    - name: Prepare SSH Key
+      run: |
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" | base64 -d > /tmp/deploy-key.pem
+        chmod 600 /tmp/deploy-key.pem
+
+    - name: Deploy to Server
+      run: |
+        ssh -i /tmp/deploy-key.pem -o StrictHostKeyChecking=no ubuntu@13.233.60.11 << 'EOF'
+          cd website-2024
+          git pull origin main
+          nvm use 18
+          npm run build
+          pm2 restart 1
+        EOF
