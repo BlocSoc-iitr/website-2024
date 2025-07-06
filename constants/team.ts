@@ -47,7 +47,7 @@ export const Team = [
     {
         name: 'Vasu Khanna',
         designation_a: 'Vice President',
-        designation_b: 'SWE at OTEX',
+        designation_b: 'Dev at Anthias',
         image: '/team_images/vasu.jpg',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
@@ -233,6 +233,7 @@ export const Team = [
     {
         name: 'Soham Vijay',
         designation_a: 'Core Member',
+        image: '/team_images/soham.jpg',
         github: 'https://github.com/0xr10t/',
         twitter: 'https://x.com/0xr10t/',
         linkedin: 'https://www.linkedin.com/in/soham-vijay-58a270311',
@@ -241,7 +242,7 @@ export const Team = [
     {
         name: 'Yash Agrawal',
         designation_a: 'Core Member',
-        image: '/team_images/cyberpunk.jpg',
+        image: '/team_images/yash_a.jpg',
         github: 'https://github.com/agrawalx/',
         twitter: 'https://x.com/_KxrMa_G/',
         linkedin: 'https://www.linkedin.com/in/yash-agrawal-774ab3267/',
