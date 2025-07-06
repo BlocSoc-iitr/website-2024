@@ -241,7 +241,7 @@ export const Team = [
     {
         name: 'Yash Agrawal',
         designation_a: 'Core Member',
-        image: '/team_images/yash_a.jpg',
+        image: '/team_images/cyberpunk.jpg',
         github: 'https://github.com/agrawalx/',
         twitter: 'https://x.com/_KxrMa_G/',
         linkedin: 'https://www.linkedin.com/in/yash-agrawal-774ab3267/',
@@ -286,10 +286,47 @@ export const Team = [
     {
         name: 'Rishi Talreja',
         designation_a: 'Core Member',
-        image: '',
+        image: '/team_images/rishi.jpg',
         github: 'https://github.com/rishi-tal-12/',
         twitter: 'https://x.com/lucifer_x08/',
         linkedin: 'https://www.linkedin.com/in/rishi-talreja-900127349',
         gender: Gender.Male
     },
+    {
+        name: 'Devanshi Khandelwal',
+        designation_a: 'Designer',
+        image: '/team_images/devanshi.jpeg',
+        github: 'https://github.com/dxkx03',
+        twitter: 'https://x.com/velvet3Whispers',
+        linkedin: 'https://www.linkedin.com/in/devanshi-khandelwal-58b60831b',
+        gender: Gender.Female
+    },
+    {
+        name: 'Aryan Baranwal',
+        designation_a: 'Core Member',
+        image: '/team_images/aryan.jpeg',
+        github: 'https://github.com/aryanbaranwal001/',
+        twitter: 'https://x.com/0x_Mahoraga',
+        linkedin: 'https://www.linkedin.com/in/aryan-baranwal-64256b322/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Yash',
+        designation_a: 'Core Member',
+        image: '/team_images/yash_b.JPG',
+        github: 'https://github.com/YASH-ai-bit/ ',
+        twitter: 'https://x.com/offee_co ',
+        linkedin: 'https://www.linkedin.com/in/yash-bainsla-a0b58132a/ ',
+        gender: Gender.Male
+    },
+    {
+        name: 'Anand Bansal',
+        designation_a: 'Core Member',
+        image: '/team_images/anand-bansal.png',
+        github: 'https://github.com/AnInsaneJimJam/ ',
+        twitter: 'https://x.com/AnIdiotJimJam/ ',
+        linkedin: 'https://www.linkedin.com/in/anand-bansal-2a10a4337/ ',
+        gender: Gender.Male
+    },
+
 ]
