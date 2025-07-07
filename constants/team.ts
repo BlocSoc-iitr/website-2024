@@ -187,7 +187,7 @@ export const Team = [
     {
         name: 'Sambhav Jain',
         designation_a: 'Core Member',
-        designation_b: 'intern at Anthiasxyz',
+        designation_b: 'Intern at Anthiasxyz',
         image: '/team_images/sambhav.png',
         github: 'https://github.com/DarkLord017/',
         twitter: 'https://x.com/0x_Wyrm/',
@@ -230,104 +230,4 @@ export const Team = [
         linkedin: '',
         gender: Gender.Female
     },
-    {
-        name: 'Soham Vijay',
-        designation_a: 'Core Member',
-        image: '/team_images/soham.jpg',
-        github: 'https://github.com/0xr10t/',
-        twitter: 'https://x.com/0xr10t/',
-        linkedin: 'https://www.linkedin.com/in/soham-vijay-58a270311',
-        gender: Gender.Male
-    },
-    {
-        name: 'Yash Agrawal',
-        designation_a: 'Core Member',
-        image: '/team_images/yash_a.jpg',
-        github: 'https://github.com/agrawalx/',
-        twitter: 'https://x.com/_KxrMa_G/',
-        linkedin: 'https://www.linkedin.com/in/yash-agrawal-774ab3267/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Mohit Grover',
-        designation_a: 'Core Member',
-        image: '/team_images/mohit.JPG',
-        github: 'https://github.com/groverInnovate/',
-        twitter: 'https://x.com/GroverInnovate/',
-        linkedin: 'https://www.linkedin.com/in/mohit-grover-38bb68311',
-        gender: Gender.Male
-    },
-    {
-        name: 'Abhivansh Saini',
-        designation_a: 'Core Member',
-        image: '/team_images/abhivansh.jpg',
-        github: 'https://github.com/akronim26/',
-        twitter: 'https://x.com/astaxxoo',
-        linkedin: 'www.linkedin.com/in/abhivanshsaini',
-        gender: Gender.Male
-    },
-    {
-        name: 'Yogita Goyal',
-        designation_a: 'Core Member',
-        image: '/team_images/yogita.jpg',
-        github: 'https://github.com/yogitagoel',
-        twitter: 'https://x.com/yo_gita_g',
-        linkedin: 'https://www.linkedin.com/in/yogita-goyal-697255333/',
-        gender: Gender.Female
-    },
-    {
-        name: 'Urja Chopra',
-        designation_a: 'Designer',
-        image: '/team_images/urja.jpg',
-        github: 'https://github.com/meuu09',
-        twitter: 'https://x.com/mazikeen2005',
-        linkedin: 'www.linkedin.com/in/urja-chopra-9669ab334/',
-        gender: Gender.Female
-    },
-    {
-        name: 'Rishi Talreja',
-        designation_a: 'Core Member',
-        image: '/team_images/rishi.jpg',
-        github: 'https://github.com/rishi-tal-12/',
-        twitter: 'https://x.com/lucifer_x08/',
-        linkedin: 'https://www.linkedin.com/in/rishi-talreja-900127349',
-        gender: Gender.Male
-    },
-    {
-        name: 'Devanshi Khandelwal',
-        designation_a: 'Designer',
-        image: '/team_images/devanshi.jpeg',
-        github: 'https://github.com/dxkx03',
-        twitter: 'https://x.com/velvet3Whispers',
-        linkedin: 'https://www.linkedin.com/in/devanshi-khandelwal-58b60831b',
-        gender: Gender.Female
-    },
-    {
-        name: 'Aryan Baranwal',
-        designation_a: 'Core Member',
-        image: '/team_images/aryan.jpeg',
-        github: 'https://github.com/aryanbaranwal001/',
-        twitter: 'https://x.com/0x_Mahoraga',
-        linkedin: 'https://www.linkedin.com/in/aryan-baranwal-64256b322/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Yash',
-        designation_a: 'Core Member',
-        image: '/team_images/yash_b.JPG',
-        github: 'https://github.com/YASH-ai-bit/ ',
-        twitter: 'https://x.com/offee_co ',
-        linkedin: 'https://www.linkedin.com/in/yash-bainsla-a0b58132a/ ',
-        gender: Gender.Male
-    },
-    {
-        name: 'Anand Bansal',
-        designation_a: 'Core Member',
-        image: '/team_images/anand-bansal.png',
-        github: 'https://github.com/AnInsaneJimJam/ ',
-        twitter: 'https://x.com/AnIdiotJimJam/ ',
-        linkedin: 'https://www.linkedin.com/in/anand-bansal-2a10a4337/ ',
-        gender: Gender.Male
-    },
-
 ]
