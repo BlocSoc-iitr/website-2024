@@ -1,6 +1,6 @@
 export const Achievements = [
     {
-		title: "Winners at Polkadot Assethub Hackathon Goa ",
+     	title: "Winners at Polkadot Assethub Hackathon Goa ",
 		year: "2025",
 	},
 	{
@@ -34,7 +34,7 @@ export const Achievements = [
 	{
 		title: "Winners at ETHGlobal Brussels ",
 		year: "2024",
-	},
+    },
     {
         title: "Summer of Nix 2024",
         year: "2024",
