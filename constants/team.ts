@@ -230,4 +230,40 @@ export const Team = [
         linkedin: '',
         gender: Gender.Female
     },
+    {
+        name: 'Bipasha',
+        designation_a: 'Developer',
+        image: '/team_images/bipasha.jpeg',
+        github: 'https://github.com/bipashabg',
+        twitter: 'https://x.com/sunaslore',
+        linkedin: 'https://www.linkedin.com/in/bipashagayary/',
+        gender: Gender.Female
+    },
+    {
+        name: 'Ayush Chandekar',
+        designation_a: 'Developer',
+        image: '/team_images/ayush.jpeg',
+        github: 'https://github.com/ayu-ch',
+        twitter: 'https://x.com/0xbl4ze',
+        linkedin: 'https://www.linkedin.com/in/ayushchandekar/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Namay Rohatgi',
+        designation_a: 'Developer',
+        image: '/team_images/namay.jpeg',
+        github: 'https://github.com/namay26',
+        twitter: 'https://x.com/NamayRohatgi',
+        linkedin: 'https://www.linkedin.com/in/namayrohatgi/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Akshat',
+        designation_a: 'Developer',
+        image: '/team_images/akshat.jpg',
+        github: 'https://github.com/dev-n-dough',
+        twitter: 'https://x.com/0xAech',
+        linkedin: 'https://www.linkedin.com/in/akshat-arora-2493a3292/',
+        gender: Gender.Male
+    },
 ]
