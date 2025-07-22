@@ -232,7 +232,7 @@ export const Team = [
     },
     {
         name: 'Bipasha',
-        designation_a: 'Core mMmber',
+        designation_a: 'Core Member',
         image: '/team_images/bipasha.jpeg',
         github: 'https://github.com/bipashabg',
         twitter: 'https://x.com/sunaslore',
