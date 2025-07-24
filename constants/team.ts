@@ -4,39 +4,10 @@ enum Gender{
 }
 
 export const Team = [
-    {
-        name: 'Yash Saraswat',
-        designation_a: 'President',
-        designation_b: 'Dev at Othentic Labs',
-        image: '/team_images/panic.png',
-        github: 'https://github.com/0xpanicError/',
-        twitter: 'https://twitter.com/0xpanicError/',
-        linkedin: 'https://www.linkedin.com/in/yash2399/',
-        gender: Gender.Male,
-    },
-    {
-        name: 'Samaredra Gouda',
-        designation_a: 'Vice President',
-        designation_b: 'Dev at Instadapp',
-        image: '/team_images/samarendra_.jpg',
-        github: 'https://github.com/SamarendraGouda/',
-        twitter: 'https://x.com/0xSamarendra/',
-        linkedin: 'https://www.linkedin.com/in/samarendra-gouda/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Aditya Gupta',
-        designation_a: 'Vice President',
-        designation_b: 'Ethereum Fellow',
-        image: '/team_images/aditya.jpg',
-        github: 'https://github.com/1010adigupta/',
-        twitter: 'https://x.com/darex_1010/',
-        linkedin: 'https://www.linkedin.com/in/aditya-gupta-905a61239/',
-        gender: Gender.Male
-    },
+    
     {
         name: 'Mihir Chandwani',
-        designation_a: 'Joint Administrator',
+        designation_a: 'President',
         designation_b: 'Intern at Nethermind',
         image: '/team_images/mihir.jpg',
         github: 'https://github.com/Mihir1101/',
@@ -56,7 +27,7 @@ export const Team = [
     },
     {
         name: 'Nilav Prajapati',
-        designation_a: 'Head of Development',
+        designation_a: 'Vice President',
         designation_b: 'Intern at Lighthouse',
         image: '/team_images/nilav.jpg',
         github: 'https://github.com/gerceboss/',
@@ -75,119 +46,12 @@ export const Team = [
     },
     {
         name: 'Vasu Khanna',
-        designation_a: 'Head of Open-Source',
-        designation_b: 'SWE at OTEX',
+        designation_a: 'Vice President',
+        designation_b: 'Dev at Anthias',
         image: '/team_images/vasu.jpg',
         github: 'https://github.com/star-gazer111/',
         twitter: 'https://x.com/_stargazer12/',
         linkedin: 'https://www.linkedin.com/in/vasu-k-4411a3252/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Prabhat Verma',
-        designation_a: 'Core Member',
-        designation_b: 'SoB 24 at Bitcoin core',
-        image: '/team_images/prabhat.jpg',
-        github: 'https://github.com/Prabhat1308/',
-        twitter: 'https://x.com/pr0b0t1sc00l/',
-        linkedin: 'https://www.linkedin.com/in/prabhat-verma-7ab615206/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Shashank Trivedi',
-        designation_a: 'Core Member',
-        designation_b: 'Building Eastore',
-        image: '/team_images/shashank.jpg',
-        github: 'https://github.com/lordshashank/',
-        twitter: 'https://x.com/0xlord_forever/',
-        linkedin: 'https://www.linkedin.com/in/shashanktrivedi7/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Alok Kumar',
-        designation_a: 'Core Member',
-        image: '/team_images/alok.jpg',
-        github: 'https://github.com/surfer05/',
-        twitter: 'https://x.com/surfer__05/',
-        linkedin: 'https://www.linkedin.com/in/alok-kumar-089967220/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Sumit Kumar',
-        designation_a: 'Core Member',
-        designation_b: 'Dev at NeoBase',
-        image: '/team_images/sumit.jpg',
-        github: 'https://github.com/startup-dreamer/',
-        twitter: 'https://x.com/Startup_dmr/',
-        linkedin: 'https://www.linkedin.com/in/startup1dreamer/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Puspendra',
-        designation_a: 'Core Member',
-        designation_b: 'Intern at BlockFlow',
-        image: '/team_images/puspendra.jpg',
-        github: 'https://github.com/silent-cipher/',
-        twitter: 'https://x.com/silent_c1pher/',
-        linkedin: 'https://www.linkedin.com/in/puspendra-mahariya-112059238/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Vaishnavi Singh',
-        designation_a: 'Core Member',
-        designation_b: 'Intern at Xalts',
-        image: '/team_images/vaishnavi.jpg',
-        github: 'https://github.com/07Vaishnavi_Singh/',
-        twitter: 'https://x.com/Vaiz_07/',
-        linkedin: 'https://www.linkedin.com/in/vaishnavi-singh-3a104b204/',
-        gender: Gender.Female
-    },
-    {
-        name: 'Varun Sharma',
-        designation_a: 'Core Member',
-        designation_b: 'Watson at Sherlock',
-        image: '/team_images/varun.jpg',
-        github: 'https://www.linkedin.com/in/vsharma4394/',
-        twitter: '',
-        linkedin: '',
-        gender: Gender.Male
-    },
-    {
-        name: 'Priyanshu Mehra',
-        designation_a: 'Head of Design',
-        designation_b: 'Intern at Nudge',
-        image: '/team_images/priyanshu.jpg',
-        github: 'https://github.com/Priyanshu95663/',
-        twitter: 'https://x.com/Priynshu_M03/',
-        linkedin: 'https://www.linkedin.com/in/priyanshum4design/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Barun Sethi',
-        designation_a: 'Designer',
-        designation_b: 'Intern at GoBlu',
-        image: '/team_images/barun.jpg',
-        github: '',
-        twitter: '',
-        linkedin: 'https://www.linkedin.com/in/barun-design/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Naman Harwani',
-        designation_a: 'Designer',
-        image: '/team_images/naman.jpg',
-        github: 'https://github.com/burgerdrummer/',
-        twitter: 'https://twitter.com/BurgerDrummer/',
-        linkedin: 'https://www.linkedin.com/in/namaha/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Archit Gangwal',
-        designation_a: 'Core Member',
-        image: '/team_images/archit.jpeg',
-        github: 'https://github.com/arcwood/',
-        twitter: '',
-        linkedin: 'https://www.linkedin.com/in/archit-gangwal-16b035228/',
         gender: Gender.Male
     },
     {
@@ -323,9 +187,10 @@ export const Team = [
     {
         name: 'Sambhav Jain',
         designation_a: 'Core Member',
+        designation_b: 'Intern at Anthiasxyz',
         image: '/team_images/sambhav.png',
         github: 'https://github.com/DarkLord017/',
-        twitter: 'https://x.com/EtherPatronus/',
+        twitter: 'https://x.com/0x_Wyrm/',
         linkedin: 'https://www.linkedin.com/in/sambhav-jain-7552a0287/',
         gender: Gender.Male
     },
@@ -364,5 +229,41 @@ export const Team = [
         twitter: 'https://x.com/AshHiAsh_/',
         linkedin: '',
         gender: Gender.Female
-    }
+    },
+    {
+        name: 'Bipasha',
+        designation_a: 'Core Member',
+        image: '/team_images/bipasha.jpeg',
+        github: 'https://github.com/bipashabg',
+        twitter: 'https://x.com/sunaslore',
+        linkedin: 'https://www.linkedin.com/in/bipashagayary/',
+        gender: Gender.Female
+    },
+    {
+        name: 'Ayush Chandekar',
+        designation_a: 'Core Member',
+        image: '/team_images/ayush.jpeg',
+        github: 'https://github.com/ayu-ch',
+        twitter: 'https://x.com/0xbl4ze',
+        linkedin: 'https://www.linkedin.com/in/ayushchandekar/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Namay Rohatgi',
+        designation_a: 'Core Member',
+        image: '/team_images/namay.jpeg',
+        github: 'https://github.com/namay26',
+        twitter: 'https://x.com/NamayRohatgi',
+        linkedin: 'https://www.linkedin.com/in/namayrohatgi/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Akshat',
+        designation_a: 'Core Member',
+        image: '/team_images/akshat.jpg',
+        github: 'https://github.com/dev-n-dough',
+        twitter: 'https://x.com/0xAech',
+        linkedin: 'https://www.linkedin.com/in/akshat-arora-2493a3292/',
+        gender: Gender.Male
+    },
 ]
