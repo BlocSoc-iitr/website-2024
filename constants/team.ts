@@ -55,26 +55,6 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Omkar Darde',
-        designation_a: 'Designer',
-        designation_b: 'Unfold finalist',
-        image: '/team_images/omkar.jpg',
-        github: 'https://github.com/0xClint/',
-        twitter: 'https://x.com/0x_Clint/',
-        linkedin: 'https://www.linkedin.com/in/omkardarde/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Shivam Verma',
-        designation_a: 'Core Member',
-        designation_b: 'Unfold finalist',
-        image: '/team_images/shivam.jpg',
-        github: 'https://github.com/ShivamPoW/',
-        twitter: 'https://x.com/Shevxer/',
-        linkedin: 'https://www.linkedin.com/in/shivampow/',
-        gender: Gender.Male
-    },
-    {
         name: 'Himanshu Raheja',
         designation_a: 'Core Member',
         image: '/team_images/himanshu.jpg',
