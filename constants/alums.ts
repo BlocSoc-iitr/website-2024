@@ -6,7 +6,7 @@ enum Gender {
 export const Alums = [
     {
         name: 'Yash Saraswat',
-        designation_a: 'Dev at Othentic Labs',
+        designation_a: 'Senior Protocol Engineer at Aleph Finance ',
         image: '/team_images/panic.png',
         github: 'https://github.com/0xpanicError/',
         twitter: 'https://twitter.com/0xpanicError/',
@@ -24,7 +24,7 @@ export const Alums = [
     },
     {
         name: 'Samaredra Gouda',
-        designation_a: 'Dev at Instadapp',
+        designation_a: 'Engineer at Instadapp',
         image: '/team_images/samarendra_.jpg',
         github: 'https://github.com/SamarendraGouda/',
         twitter: 'https://x.com/0xSamarendra/',
@@ -33,7 +33,7 @@ export const Alums = [
     },
     {
         name: 'Prabhat Verma',
-        designation_a: 'SoB 24 at Bitcoin core',
+        designation_a: 'Rust Engineer at Galoy',
         image: '/team_images/prabhat.jpg',
         github: 'https://github.com/Prabhat1308/',
         twitter: 'https://x.com/pr0b0t1sc00l/',
@@ -51,7 +51,7 @@ export const Alums = [
     },
     {
         name: 'Naman Harwani',
-        designation_a: 'Designer',
+        designation_a: 'Engineer at NSE',
         image: '/team_images/naman.jpg',
         github: 'https://github.com/burgerdrummer/',
         twitter: 'https://twitter.com/BurgerDrummer/',
@@ -60,7 +60,7 @@ export const Alums = [
     },
     {
         name: 'Barun Sethi',
-        designation_a: 'Designer',
+        designation_a: 'Product Designer at Yulu',
         image: '/team_images/barun.jpg',
         github: '',
         twitter: '',
@@ -107,7 +107,7 @@ export const Alums = [
     },
     {
         name: 'Alok Kumar',
-        designation_a: 'Core Member',
+        designation_a: 'Researcher at Secbit',
         image: '/team_images/alok.jpg',
         github: 'https://github.com/surfer05/',
         twitter: 'https://x.com/surfer__05/',
@@ -134,7 +134,7 @@ export const Alums = [
     },
     {
         name: 'Shashank Trivedi',
-        designation_a: 'Core Member',
+        designation_a: 'Founder Privote',
         image: '/team_images/shashank.jpg',
         github: 'https://github.com/lordshashank/',
         twitter: 'https://x.com/0xlord_forever/',
@@ -143,7 +143,7 @@ export const Alums = [
     },
     {
         name: 'Puspendra',
-        designation_a: 'Core Member',
+        designation_a: 'Building Privote', 
         image: '/team_images/puspendra.jpg',
         github: 'https://github.com/silent-cipher/',
         twitter: 'https://x.com/silent_c1pher/',
