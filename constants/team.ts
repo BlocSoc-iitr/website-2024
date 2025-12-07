@@ -179,7 +179,7 @@ export const Team = [
         designation_a: 'Core Member',
         image: '/team_images/utsav.jpg',
         github: 'https://github.com/x-senpai-x/',
-        twitter: 'https://x.com/UtsavSh17266310/',
+        twitter: 'https://x.com/0x_senpai_x',
         linkedin: 'https://www.linkedin.com/in/utsav-sharma-84a6631b9/',
         gender: Gender.Male
     },

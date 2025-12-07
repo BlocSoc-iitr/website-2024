@@ -1,6 +1,34 @@
 export const Achievements = [
     {
-     	title: "Winners at Polkadot Assethub Hackathon Goa ",
+     	title: "Protocol Labs Developer Guild 2025 ",
+		year: "2025",
+	},
+    {
+     	title: "Ethereum Protocol Fellowship 2025 ",
+		year: "2025",
+	},
+    {
+     	title: "Overall 5th in Aptos Ctrl+MOVE Online Hackathon ",
+		year: "2025",
+	},
+    {
+     	title: "2nd Prize at Token2049 Singapore ",
+		year: "2025",
+	},
+    {
+     	title: "Paypal Track Winners at ETHGlobal New Delhi ",
+		year: "2025",
+	},
+    {
+     	title: "Winners at Arbitrum Open House ",
+		year: "2025",
+	},
+    {
+     	title: "Winners at ETHVietnam ",
+		year: "2025",
+	},
+    {
+     	title: "Overall 2nd at Polkadot Assethub Hackathon Goa ",
 		year: "2025",
 	},
 	{

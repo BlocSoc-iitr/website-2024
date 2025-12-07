@@ -1,5 +1,20 @@
 export const startups = [
     {
+        title: 'Privote',
+        year: '2024',
+        description: 'Privacy-preserving on-chain voting protocol',
+        desca: 'Privote is a privacy-preserving voting protocol built on zkMACI. It enables secure, transparent on-chain elections while maintaining voter privacy and preventing collusion through cryptographic proofs.',
+        descb: 'Create polls, participate in elections, and make your voice heard without compromising your privacy. Built on zero-knowledge technology to ensure your vote remains confidential while maintaining verifiable integrity on-chain.',
+        image: '/startup_images/privote.png',
+        github: 'https://github.com/PriVote-Project',
+        website: 'https://privote.live/',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+        twitter: 'https://x.com/Privoteweb3',
+        linkedin: '',
+    },
+    {
         title: 'BlockFlow',
         year: '2023',
         description: 'A blockchain data platform to build applications faster',
@@ -31,13 +46,45 @@ export const startups = [
 ]
 
 export const projects = [
-    // {
-    //   title: 'Selene',
-    //   year: '2023',
-    //   description: 'Selene project',
-    //   image: '',
-    //   github: 'https://github.com/BlocSoc-iitr/selene'
-    // },
+    {
+        title: 'Deimos',
+        year: '2025',
+        description: 'Mobile benchmarking suite for ZK proving systems',
+        desca: 'Deimos is a comprehensive benchmarking suite for zero-knowledge virtual machines and cryptographic primitives on mobile hardware. It provides unified performance metrics across Android and iOS platforms, enabling developers to evaluate ZK frameworks in real-world mobile environments.',
+        descb: 'Compare proving and verification times, memory footprint, and proof sizes across different ZK frameworks. Make informed decisions about which proving systems work best for your mobile applications.',
+        image: '/project_images/deimos.png ',
+        github: 'https://github.com/BlocSoc-iitr/Deimos',
+        website: 'https://deimos-werw.vercel.app/',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+    },
+    {
+        title: 'Nexus',
+        year: '2025',
+        description: 'Model Context Protocol server for blockchain interactions',
+        desca: 'Nexus is a Model Context Protocol (MCP) server that bridges AI agents with blockchain functionality on the Hyperliquid EVM chain. It provides a standardized interface for blockchain operations, enabling seamless integration between AI systems and on-chain activities.',
+        descb: 'Empower AI agents to safely query blockchain state and execute on-chain transactions through validated tool calls. Built with security and reliability at its core, Nexus makes blockchain interactions accessible to the next generation of AI applications.',
+        image: '/project_images/nexus.png',
+        github: 'https://github.com/BlocSoc-iitr/Nexus',
+        website: '',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+    },
+    {
+        title: 'Selene',
+        year: '2024',
+        description: 'Lightweight Ethereum client written in Golang',
+        desca: 'Selene is a fast, secure, and portable light client for Ethereum built with Golang. It enables trustless verification of Ethereum state without running a full node, making blockchain access more efficient and accessible for resource-constrained environments.',
+        descb: 'Inspired by Helios, Selene brings the power of light client technology to the Go ecosystem. Perfect for applications that need Ethereum data verification without the overhead of maintaining full node infrastructure.',
+        image: '/project_images/selene.png',
+        github: 'https://github.com/BlocSoc-iitr/selene',
+        website: '',
+        devfolio: '',
+        devpost: '',
+        ethereum: '',
+    },
     {
         title: 'OpenStylus',
         year: '2023',
